@@ -27,7 +27,6 @@ def compute(nlist):
     print(nlist[-1])
     newlist = nlist[0:len(nlist)-1]
     print(newlist)
-    secondlargestprime = 2
     primes = []
     maxprime = 2
     noofprimes = 0
